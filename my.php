@@ -1,3 +1,3 @@
 <?php
-print   "Gaurav Malik"
+print   "$Gaurav Malik$"
 ?>
