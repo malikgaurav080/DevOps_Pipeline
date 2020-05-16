@@ -1,7 +1,7 @@
-<
+
 $result = "";
-this is wrong
 class calculator
+this is wrong
 {
     var $a;
     var $b;
