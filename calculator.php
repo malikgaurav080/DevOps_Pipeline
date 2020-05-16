@@ -1,6 +1,7 @@
-<?php
+
 $result = "";
 class calculator
+wrong code
 {
     var $a;
     var $b;
