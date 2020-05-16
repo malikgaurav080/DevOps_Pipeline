@@ -1,6 +1,6 @@
-<?php 
+<
 $result = "";
-this code is wrong
+this is wrong
 class calculator
 {
     var $a;
