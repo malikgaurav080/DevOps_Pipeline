@@ -1,5 +1,6 @@
 <?php 
 $result = "";
+
 class calculator
 {
     var $a;
